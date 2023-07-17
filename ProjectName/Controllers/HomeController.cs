@@ -6,7 +6,7 @@ namespace ProjectName.Controllers
     public class HomeController : Controller
     {
         [Route("/")]
-        public ActionResult Home(stringp[] args)
+        public ActionResult Home(string[] args)
         {
             return View();
         }
