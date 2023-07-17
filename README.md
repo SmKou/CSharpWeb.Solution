@@ -1,4 +1,4 @@
-# CsharpWeb Template
+# CSharpWeb Template
 
 By: Stella Marie
 
